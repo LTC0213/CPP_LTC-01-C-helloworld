@@ -10,7 +10,7 @@ using namespace std;
 
 #define Day 7
 
-int main()
+  main()
 {
 
 
