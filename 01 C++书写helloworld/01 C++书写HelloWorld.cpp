@@ -10,9 +10,33 @@ using namespace std;
 
 #define Day 7
 
-  main()
+int main()
 {
-
+	
+	
+	////跳过本次循环中余下尚未执行的语句，继续执行下一次循环
+	//for (int i = 0; i < 100; i++)
+	//{
+	//	if (i % 2 == 0)
+	//	{
+	//		continue;
+	//	}
+	//	cout << i << endl;
+	//}
+	
+	////在嵌套循环语句中使用break，退出内层循环
+	//for (int i = 0; i < 10; i++)
+	//{
+	//	for (int j = 0; j < 10; j++)
+	//	{
+	//		if (j == 5)
+	//		{
+	//			break;
+	//		}
+	//		cout << "*" << " ";
+	//	}
+	//	cout << endl;
+	//}
 
 	//整型输入
 	//int a = 0;
